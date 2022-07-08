@@ -1,0 +1,26 @@
+body {
+    font-family: roboto, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    border: 1px solid pink;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#header-list {
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.left-header {
+    font-weight: 700;
+    font-size: 24px;
+    color: #f9faf8;
+}
