@@ -108,7 +108,6 @@ img {
     flex-direction: column;
     align-items: center;
     height: 403.5px;
-
 }
 
 #testimonial {
@@ -154,4 +153,14 @@ h4, #signup-paragraph {
 
 #fancy-button {
     border: 1px solid white;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;  
+    color: lightgrey;
+    font-size: x-small;
+    padding: 20px;
 }
