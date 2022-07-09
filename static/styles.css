@@ -15,9 +15,6 @@ body {
     list-style-type: none;
     display: flex;
     gap: 16px;
-    font-size: 18px;
-    font-weight: lighter;
-    color: #e5e7eb;
     margin: 0%;
     padding: 0%;
 }
@@ -164,4 +161,15 @@ h4, #signup-paragraph {
     color: lightgrey;
     font-size: x-small;
     padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #e5e7eb;
+}
+
+button:hover {
+    background-color: lightskyblue;
 }
