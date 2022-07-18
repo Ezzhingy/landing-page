@@ -163,7 +163,7 @@ h4, #signup-paragraph {
     padding: 20px;
 }
 
-a {
+.link {
     text-decoration: none;
     font-size: 18px;
     font-weight: lighter;
@@ -172,4 +172,16 @@ a {
 
 button:hover {
     background-color: lightskyblue;
+}
+
+#copyright {
+    /* text-align: center; */
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: lighter;
+    color: #e5e7eb;
+}
+
+#last-text {
+    margin: 0px;
 }
